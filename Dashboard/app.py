@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
 from scipy.stats import pearsonr
-from datetime import datetime
 
 # Load dataset
 df_day = pd.read_csv("all_data.csv")
