@@ -1,6 +1,6 @@
 # Bike-Sharing-Dataset-Visualization
 
-untuk menjalankan program ini diperlukan cara berikut
+untuk menjalankan program ini di _local_ diperlukan cara berikut
 
 ## Setup Environment - Anaconda
 ```
